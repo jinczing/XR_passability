@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.xr_passibility.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\user\\Desktop\\XR_passibility_7\\XR_passibility\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "XR_passibility [Testing]"
+        }
+      }
+    }
+  ]
+}
